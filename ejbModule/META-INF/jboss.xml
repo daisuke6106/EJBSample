@@ -1,0 +1,8 @@
+<jboss>
+	<enterprise-beans>
+		<session>
+			<ejb-name>HelloEJB</ejb-name>
+			<jndi-name>MyEJB/Hello</jndi-name>
+		</session>
+	</enterprise-beans>
+</jboss>
